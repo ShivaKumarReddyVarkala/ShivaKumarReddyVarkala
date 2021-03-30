@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ShivaKumarReddyVarkala
-- 👀 I’m interested in Probelm solving, Progarmming , Design and clean code
+- 👋 Hi, I’m @ShivaKumarReddyVarkala,  Working as Software engineer from 2017
+- 👀 I’m interested in Probelm solving, Programming , Design and Clean code
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Java, Python, AWS
 - 📫 How to reach me : vsreee256@gmail.com
