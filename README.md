@@ -3,7 +3,7 @@
 - 👀 Interested in Probelm solving, Programming, System Design and Clean code
 - 🌱 Currently learning Angular and Elastic Search
 - 💞️ Looking to collaborate on Java, Python, AWS
-- ☑️ Skills: Java, Spring, Spring boot, Microservices, Python, Go lang, Node JS, AWS
+- ☑️ Skills: Java, Spring, Spring boot, Microservices, Python, Go lang, Node JS, AWS, SQL
 - 📫 vsreee256@gmail.com, +91-9701224769
 - 👉 Lives in Hyderabad, India
 
